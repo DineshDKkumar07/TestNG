@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T21:23:00 IST" name="Suite" finished-at="2024-04-11T21:25:03 IST" duration-ms="122839">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T21:23:00 IST" name="Testing on firefox" finished-at="2024-04-11T21:24:40 IST" duration-ms="100106">
+      <class name="Cross_parllel.Testcase_3">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_3@5d534f5d]" started-at="2024-04-11T21:23:31 IST" name="google_search" finished-at="2024-04-11T21:23:38 IST" duration-ms="6832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario3()[pri:0, instance:Cross_parllel.Testcase_3@5d534f5d]" started-at="2024-04-11T21:23:38 IST" name="scenario3" finished-at="2024-04-11T21:24:35 IST" duration-ms="56543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_3@5d534f5d]" started-at="2024-04-11T21:24:35 IST" name="post_condition" finished-at="2024-04-11T21:24:40 IST" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_3 -->
+      <class name="Cross_parllel.Testcase_2">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_2@576d5deb]" started-at="2024-04-11T21:23:16 IST" name="google_search" finished-at="2024-04-11T21:23:23 IST" duration-ms="7161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario2()[pri:0, instance:Cross_parllel.Testcase_2@576d5deb]" started-at="2024-04-11T21:23:23 IST" name="scenario2" finished-at="2024-04-11T21:23:29 IST" duration-ms="5747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_2@576d5deb]" started-at="2024-04-11T21:23:29 IST" name="post_condition" finished-at="2024-04-11T21:23:31 IST" duration-ms="2554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_2 -->
+      <class name="Cross_parllel.Testcase_1">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_1@5e600dd5]" started-at="2024-04-11T21:23:00 IST" name="google_search" finished-at="2024-04-11T21:23:07 IST" duration-ms="7450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario1()[pri:0, instance:Cross_parllel.Testcase_1@5e600dd5]" started-at="2024-04-11T21:23:07 IST" name="scenario1" finished-at="2024-04-11T21:23:14 IST" duration-ms="6307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_1@5e600dd5]" started-at="2024-04-11T21:23:14 IST" name="post_condition" finished-at="2024-04-11T21:23:16 IST" duration-ms="2359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_1 -->
+    </test> <!-- Testing on firefox -->
+    <test started-at="2024-04-11T21:23:00 IST" name="Testing on Chrome" finished-at="2024-04-11T21:25:01 IST" duration-ms="120794">
+      <class name="Cross_parllel.Testcase_3">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_3@66f57048]" started-at="2024-04-11T21:23:36 IST" name="google_search" finished-at="2024-04-11T21:23:41 IST" duration-ms="4426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario3()[pri:0, instance:Cross_parllel.Testcase_3@66f57048]" started-at="2024-04-11T21:23:41 IST" name="scenario3" finished-at="2024-04-11T21:25:00 IST" duration-ms="79871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_3@66f57048]" started-at="2024-04-11T21:25:00 IST" name="post_condition" finished-at="2024-04-11T21:25:01 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_3 -->
+      <class name="Cross_parllel.Testcase_2">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_2@4dbb42b7]" started-at="2024-04-11T21:23:18 IST" name="google_search" finished-at="2024-04-11T21:23:23 IST" duration-ms="4537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario2()[pri:0, instance:Cross_parllel.Testcase_2@4dbb42b7]" started-at="2024-04-11T21:23:23 IST" name="scenario2" finished-at="2024-04-11T21:23:36 IST" duration-ms="12832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_2@4dbb42b7]" started-at="2024-04-11T21:23:36 IST" name="post_condition" finished-at="2024-04-11T21:23:36 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_2 -->
+      <class name="Cross_parllel.Testcase_1">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_1@47987356]" started-at="2024-04-11T21:23:00 IST" name="google_search" finished-at="2024-04-11T21:23:04 IST" duration-ms="4508" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario1()[pri:0, instance:Cross_parllel.Testcase_1@47987356]" started-at="2024-04-11T21:23:04 IST" name="scenario1" finished-at="2024-04-11T21:23:18 IST" duration-ms="13727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_1@47987356]" started-at="2024-04-11T21:23:18 IST" name="post_condition" finished-at="2024-04-11T21:23:18 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_1 -->
+    </test> <!-- Testing on Chrome -->
+    <test started-at="2024-04-11T21:23:00 IST" name="Testing on edge" finished-at="2024-04-11T21:25:03 IST" duration-ms="122839">
+      <class name="Cross_parllel.Testcase_3">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_3@52719fb6]" started-at="2024-04-11T21:23:58 IST" name="google_search" finished-at="2024-04-11T21:24:03 IST" duration-ms="5120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario3()[pri:0, instance:Cross_parllel.Testcase_3@52719fb6]" started-at="2024-04-11T21:24:03 IST" name="scenario3" finished-at="2024-04-11T21:25:02 IST" duration-ms="59479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_3@52719fb6]" started-at="2024-04-11T21:25:02 IST" name="post_condition" finished-at="2024-04-11T21:25:03 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_3 -->
+      <class name="Cross_parllel.Testcase_2">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_2@6221a451]" started-at="2024-04-11T21:23:20 IST" name="google_search" finished-at="2024-04-11T21:23:27 IST" duration-ms="7125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario2()[pri:0, instance:Cross_parllel.Testcase_2@6221a451]" started-at="2024-04-11T21:23:27 IST" name="scenario2" finished-at="2024-04-11T21:23:58 IST" duration-ms="30114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_2@6221a451]" started-at="2024-04-11T21:23:58 IST" name="post_condition" finished-at="2024-04-11T21:23:58 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_2 -->
+      <class name="Cross_parllel.Testcase_1">
+        <test-method is-config="true" signature="google_search(java.lang.String)[pri:0, instance:Cross_parllel.Testcase_1@6fdbe764]" started-at="2024-04-11T21:23:00 IST" name="google_search" finished-at="2024-04-11T21:23:06 IST" duration-ms="6271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_search -->
+        <test-method signature="scenario1()[pri:0, instance:Cross_parllel.Testcase_1@6fdbe764]" started-at="2024-04-11T21:23:06 IST" name="scenario1" finished-at="2024-04-11T21:23:20 IST" duration-ms="13734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method is-config="true" signature="post_condition()[pri:0, instance:Cross_parllel.Testcase_1@6fdbe764]" started-at="2024-04-11T21:23:20 IST" name="post_condition" finished-at="2024-04-11T21:23:20 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_condition -->
+      </class> <!-- Cross_parllel.Testcase_1 -->
+    </test> <!-- Testing on edge -->
+  </suite> <!-- Suite -->
+</testng-results>
