@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Cross_parllel.Launchquit">
+      <class name="DataProvider.Login_amazon">
         <methods>
-          <include name="google_search"/>
+          <include name="login_amazon"/>
         </methods>
-      </class> <!-- Cross_parllel.Launchquit -->
+      </class> <!-- DataProvider.Login_amazon -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
